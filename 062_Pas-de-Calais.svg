@@ -1,20 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900" preserveAspectRatio="xMidYMid meet">
-  <path d="M 92 75
-        L 158 59 L 205 35 L 263 28 L 319 15 L 371 6
-        L 397 20 L 423 84 L 447 148 L 465 214 L 492 242
-        L 530 249 L 557 270 L 586 259 L 613 281 L 645 301
-        L 671 328 L 705 328 L 736 349 L 762 339 L 783 362
-        L 815 355 L 846 371 L 870 402 L 844 421 L 823 449
-        L 836 476 L 861 483 L 883 469 L 901 493 L 928 503
-        L 943 532 L 929 559 L 951 574 L 944 608 L 920 621
-        L 929 654 L 906 676 L 934 701 L 921 729 L 890 735
-        L 902 765 L 874 784 L 851 773 L 837 807 L 805 801
-        L 778 824 L 744 814 L 720 834 L 683 823 L 654 844
-        L 617 832 L 584 846 L 555 822 L 519 831 L 488 807
-        L 450 812 L 421 789 L 391 802 L 356 779 L 326 784
-        L 297 760 L 264 765 L 241 738 L 209 730 L 190 703
-        L 156 699 L 139 670 L 111 660 L 96 632 L 67 618
-        L 76 582 L 70 544 L 77 505 L 73 465 L 78 424
-        L 75 381 L 79 340 L 76 301 L 83 263 L 79 221
-        L 87 184 L 84 145 Z" fill="currentColor"/>
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.40 59.60" width="100%" height="100%" preserveAspectRatio="none" role="img" aria-label="Pas-de-Calais">
+<title>Pas-de-Calais</title>
+<g id="silhouette" transform="translate(-365.4000 -25.1000)" stroke="#FFFFFF" stroke-width="1.1" stroke-linejoin="round" vector-effect="non-scaling-stroke">
+<path d="m379.8 68.9l7.1 5.8 12-2.5-2.6 5.7 1.7 3.1 2.5-3.1 8.4 3.5 0.8-2.8 2.8 4.6 2.4-1.7 0.8 3.2 8.6-1.8 3.5-10.6-1.8-2.4-3-0.4 0.7-2.7-3.9-5.2 3.1-1.6-3.8-5.3-5.9-1 1-6.1-1.3-2.5-1.7 2.2-11.6-0.5-4.1-4.2 0.6-2.8-5.5-2.6-6.3-12.1-11.7 3.4-6.4 5.4 0.9 5.6-1.7 4.6 0.6 6.7 2 4.2-1.7-1.4-0.3 9.7 2.3 1.6 10.5 1z" vector-effect="non-scaling-stroke" />
+</g>
 </svg>
